@@ -1,0 +1,44 @@
+﻿{
+  "AltoroJService-baseUrl": "https://demo.testfire.net/api/",
+
+  "tokken": "YW5OdGFYUm86WkdWdGJ6RXlNelE9Oj8/Bz92P1w=",
+
+  "requestBodyAuthorization": {
+    "username": "jsmith",
+    "password": "demo1234"
+  },
+
+  "datesBody": {
+    "startDate": "2012-03-12",
+    "endDate": "2020-03-17"
+  },
+
+  "accountId": "800002",
+
+  "infoTransfer": {
+    "toAccount": "800002",
+    "fromAccount": "800003",
+    "transferAmount": "200"
+  },
+
+  "feedbackBody": {
+    "name": "J Smith",
+    "email": "jsmtih@altoromutual.com",
+    "subject": "Amazing web design",
+    "message": "I like the new look of your applicaiton"
+  },
+
+  "addUserBody": {
+    "firstname": "Bilbo",
+    "lastname": "Baggins",
+    "username": "bilbob",
+    "password1": "S3l3ctS0methingStr0ng5AsP@ssword",
+    "password2": "S3l3ctS0methingStr0ng5AsP@ssword"
+  },
+
+  "changePasswordBody": {
+    "username": "jdoe",
+    "password1": "Th1s!sz3nu3Passv0rd",
+    "password2": "Th1s!sz3nu3Passv0rd"
+  }
+}
